@@ -32,7 +32,7 @@ experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
+  - logo: https://media-exp1.licdn.com/dms/image/C4D0BAQEXZwaWAoaHhg/company-logo_100_100/0?e=1605139200&v=beta&t=12EtVV2WpBbKFT8LV3V-aCAcKIq0DFHRjzUd766IFGE
     title: IT Technical Specialist
     company: Vodafone UK
     duration: 2015 - 2018
