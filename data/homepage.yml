@@ -41,9 +41,9 @@ experience:
     company: Vodafone
     duration: 2018 - 2019
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Infrastructure Engineer
+    company: iVendi Ltd.
+    duration: 2019 - Present
 education:
   enable: false
   title: Education
