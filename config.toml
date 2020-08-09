@@ -22,14 +22,14 @@ weight = 5
 [params]
 address = "Manchester UK"
 author = "Peter Endacott"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Peter Endacott | Theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "pete.endacott@gmail.com"
+favicon = "/static/images/favicon.ico"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "https://s3.amazonaws.com/peterendacott-website/assets/lg4.png"
 theme_color = "#070114"
-favicon = "/static/images/favicon.ico"
 [params.contact]
 enable = true
 form_action = "#"
