@@ -1,6 +1,6 @@
-# Kross Hugo Portfolio Forestry starter
+# peterendacott.me
 
-![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png)
+![Homepage](https://peterendacott-website.s3.amazonaws.com/assets/preview.PNG)
 
 [Live Preview](http://demo.themefisher.com/kross-hugo/)
 
