@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "Manchester UK"
 author = "Peter Endacott"
-copyright = "Copyrighht &copy; 2020 Peter Endacott | Theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Peter Endacott | Theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "pete.endacott@gmail.com"
 favicon = "/static/images/favicon.ico"
