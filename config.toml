@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "pete.endacott@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "https://s3.amazonaws.com/peterendacott-website/assets/lg.png"
+logo = "https://s3.amazonaws.com/peterendacott-website/assets/lg2.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
