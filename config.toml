@@ -28,7 +28,6 @@ email = "pete.endacott@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 logo = "https://s3.amazonaws.com/peterendacott-website/assets/lg4.png"
-phone = "+880 2544 658 256"
 theme_color = "#070114"
 favicon = "/static/images/favicon.ico"
 [params.contact]
