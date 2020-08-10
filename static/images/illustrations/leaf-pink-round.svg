@@ -1,89 +1,124 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="84"
-   height="89"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Symbol_code red.svg">
-  <metadata
-     id="metadata22">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs20" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview18"
-     showgrid="false"
-     inkscape:zoom="2.8648649"
-     inkscape:cx="-30.104424"
-     inkscape:cy="134.43638"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <path
-     d="M 164.07,82.2 C 170.8,130.13 140.4,174 96.2,180.3 C 51.9,186.5 10.6,152.7 3.93,104.79 C -2.79,56.87 27.6,12.98 71.84,6.7 C 116.1,0.5 157.4,34.3 164,82.21 L 164.07,82.2 z"
-     style="fill-opacity: 0.2;"
-     id="path4" />
-  <path
-     d="M 176.07,80.2 C 182.8,128 152.4,172.03 108.16,178.26 C 63.9,184.5 22.6,150.7 15.9,102.79 C 9.22,54.9 39.6,10.9 83.8,4.7 C 128,-1.5 169,32.3 176,80.2 L 176.07,80.2 z"
-     style="fill:#c83737;fill-opacity:1"
-     id="path6" />
-  <path
-     d="M 160.057,82.47 C 165.43,120.8 141.1,155.9 105.7,160.9 C 70.35,165.89 37.3,138.9 31.9,100.5 C 26.6,62.2 50.9,27 86.3,22 C 121.7,17.1 154.7,44 160.057,82.5 L 160.057,82.5 L 160.057,82.47 z"
-     style="fill:#e9afaf;fill-opacity:1"
-     id="path8" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:62.752285px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c83737;fill-opacity:1;stroke:#c83737;stroke-width:3.66899991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="28.404764"
-     y="115.24966"
-     id="text15"
-     transform="matrix(0.94319463,-0.08808901,0.0981629,1.0510587,0,0)"><tspan
-       sodipodi:role="line"
-       id="tspan13"
-       x="28.404764"
-       y="172.50047"
-       style="fill:#c83737;fill-opacity:1;stroke:#c83737;stroke-width:3.66899991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></text>
-  <path
-     style="fill:#c83737;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 41.465808,93.799903 0.740461,6.417327 38.380555,14.80922 -1.110691,-9.87281 L 54.917514,95.897876 77.37816,82.44617 76.390879,72.079718 Z"
-     id="path4529"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#c83737;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="M 84.042308,126.13336 100.33245,60.108934 109.09457,59.491883 93.051249,125.26949 Z"
-     id="path4531"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#c83737;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-     d="m 115.5119,68.377414 1.11069,10.243042 24.31179,9.25576 -22.58405,13.575114 1.11069,9.99622 35.04848,-21.596771 -0.74046,-6.540738 z"
-     id="path4533"
-     inkscape:connector-curvature="0" />
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:url(#SVGID_7_);}
+	.st7{fill:url(#SVGID_8_);}
+	.st8{fill:url(#SVGID_9_);}
+	.st9{fill:url(#SVGID_10_);}
+	.st10{fill:url(#SVGID_11_);}
+	.st11{fill:url(#SVGID_12_);}
+	.st12{fill:url(#SVGID_13_);}
+	.st13{fill:url(#SVGID_14_);}
+	.st14{fill:url(#SVGID_15_);}
+	.st15{fill:url(#SVGID_16_);}
+	.st16{fill:url(#SVGID_17_);}
+	.st17{fill:url(#SVGID_18_);}
+	.st18{fill:url(#SVGID_19_);}
+	.st19{fill:url(#SVGID_20_);}
+	.st20{fill:url(#SVGID_21_);}
+	.st21{fill:url(#SVGID_22_);}
+	.st22{fill:url(#SVGID_23_);}
+	.st23{fill:url(#SVGID_24_);}
+	.st24{fill:url(#SVGID_25_);}
+	.st25{fill:url(#SVGID_26_);}
+	.st26{fill:url(#SVGID_27_);}
+	.st27{fill:url(#SVGID_28_);}
+	.st28{fill:url(#SVGID_29_);}
+	.st29{fill:url(#SVGID_30_);}
+	.st30{fill:url(#SVGID_31_);}
+	.st31{fill:url(#SVGID_32_);}
+	.st32{fill:url(#SVGID_33_);}
+	.st33{fill:url(#SVGID_34_);}
+	.st34{fill:url(#SVGID_35_);}
+	.st35{fill:url(#SVGID_36_);}
+	.st36{fill:url(#SVGID_37_);}
+	.st37{fill:url(#SVGID_38_);}
+	.st38{fill:url(#SVGID_39_);}
+	.st39{fill:url(#SVGID_40_);}
+	.st40{fill:url(#SVGID_41_);}
+	.st41{fill:url(#SVGID_42_);}
+	.st42{fill:url(#SVGID_43_);}
+	.st43{fill:url(#SVGID_44_);}
+	.st44{fill:url(#SVGID_45_);}
+	.st45{fill:url(#SVGID_46_);}
+	.st46{fill:url(#SVGID_47_);}
+	.st47{fill:url(#SVGID_48_);}
+	.st48{fill:url(#SVGID_49_);}
+	.st49{fill:url(#SVGID_50_);}
+	.st50{fill:url(#SVGID_51_);}
+	.st51{fill:url(#SVGID_52_);}
+	.st52{fill:url(#SVGID_53_);}
+	.st53{fill:url(#SVGID_54_);}
+	.st54{fill:url(#SVGID_55_);}
+	.st55{fill:url(#SVGID_56_);}
+	.st56{fill:url(#SVGID_57_);}
+	.st57{fill:url(#SVGID_58_);}
+	.st58{fill:url(#SVGID_59_);}
+	.st59{fill:url(#SVGID_60_);}
+	.st60{fill:url(#SVGID_61_);}
+	.st61{fill:url(#SVGID_62_);}
+	.st62{fill:url(#SVGID_63_);}
+	.st63{fill:url(#SVGID_64_);}
+	.st64{fill:url(#SVGID_65_);}
+	.st65{fill:url(#SVGID_66_);}
+	.st66{fill:url(#SVGID_67_);}
+	.st67{fill:url(#SVGID_68_);}
+	.st68{fill:url(#SVGID_69_);}
+	.st69{fill:url(#SVGID_70_);}
+	.st70{fill:url(#SVGID_71_);}
+	.st71{fill:url(#SVGID_72_);}
+	.st72{fill:url(#SVGID_73_);}
+	.st73{fill:url(#SVGID_74_);}
+	.st74{fill:url(#SVGID_75_);}
+	.st75{fill:url(#SVGID_76_);}
+	.st76{fill:url(#SVGID_77_);}
+	.st77{fill:url(#SVGID_78_);}
+	.st78{fill:url(#SVGID_79_);}
+	.st79{fill:url(#SVGID_80_);}
+	.st80{fill:url(#SVGID_81_);}
+	.st81{fill:url(#SVGID_82_);}
+	.st82{fill:url(#SVGID_83_);}
+	.st83{fill:url(#SVGID_84_);}
+	.st84{fill:url(#SVGID_85_);}
+	.st85{fill:url(#SVGID_86_);}
+	.st86{fill:url(#SVGID_87_);}
+	.st87{fill:url(#SVGID_88_);}
+	.st88{fill:url(#SVGID_89_);}
+	.st89{fill:url(#SVGID_90_);}
+	.st90{fill:url(#SVGID_91_);}
+	.st91{fill:url(#SVGID_92_);}
+	.st92{fill:url(#SVGID_93_);}
+	.st93{fill:url(#SVGID_94_);}
+	.st94{fill:url(#SVGID_95_);}
+	.st95{fill:url(#SVGID_96_);}
+	.st96{fill:url(#SVGID_97_);}
+	.st97{fill:url(#SVGID_98_);}
+	.st98{fill:url(#SVGID_99_);}
+	.st99{fill:url(#SVGID_100_);}
+	.st100{fill:url(#SVGID_101_);}
+	.st101{fill:url(#SVGID_102_);}
+	.st102{fill:url(#SVGID_103_);}
+	.st103{fill:url(#SVGID_104_);}
+	.st104{fill:url(#SVGID_105_);}
+	.st105{fill:url(#SVGID_106_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.5628" y1="12" x2="23.4372" y2="12">
+	<stop  offset="0" style="stop-color:#1245C6"/>
+	<stop  offset="1" style="stop-color:#9909B7"/>
+</linearGradient>
+<path class="st0" d="M15.1,3.8c0.1,0.1,0.1,0.2,0,0.3l-4.7,16.1c0,0.1-0.1,0.2-0.2,0.2c-0.1,0.1-0.2,0.1-0.3,0l-0.8-0.2
+	c-0.1,0-0.2-0.1-0.2-0.2c-0.1-0.1-0.1-0.2,0-0.3l4.7-16.1c0-0.1,0.1-0.2,0.2-0.2c0.1-0.1,0.2-0.1,0.3,0l0.8,0.2
+	C14.9,3.7,15,3.7,15.1,3.8z M7.8,6.8c0-0.1,0-0.2-0.1-0.3L7.1,5.9C7,5.8,6.9,5.8,6.8,5.8s-0.2,0-0.3,0.1l-5.8,5.8
+	c-0.1,0.1-0.1,0.2-0.1,0.3s0,0.2,0.1,0.3l5.8,5.8c0.1,0.1,0.2,0.1,0.3,0.1s0.2,0,0.3-0.1l0.6-0.6c0.1-0.1,0.1-0.2,0.1-0.3
+	c0-0.1,0-0.2-0.1-0.3L2.8,12l4.9-4.9C7.8,7,7.8,6.9,7.8,6.8z M23.3,11.7l-5.8-5.8c-0.1-0.1-0.2-0.1-0.3-0.1c-0.1,0-0.2,0-0.3,0.1
+	l-0.6,0.6c-0.1,0.1-0.1,0.2-0.1,0.3s0,0.2,0.1,0.3l4.9,4.9l-4.9,4.9c-0.1,0.1-0.1,0.2-0.1,0.3c0,0.1,0,0.2,0.1,0.3l0.6,0.6
+	c0.1,0.1,0.2,0.1,0.3,0.1c0.1,0,0.2,0,0.3-0.1l5.8-5.8c0.1-0.1,0.1-0.2,0.1-0.3C23.4,11.9,23.4,11.8,23.3,11.7z"/>
 </svg>
