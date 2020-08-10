@@ -16,34 +16,34 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
+  - title: Powershell
     progress: 90%
     color: "#fdb157"
-  - title: Logo Design
+  - title: Python
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
+  - title: Terraform
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
+  - title: Kubernetes
     progress: 70%
     color: "#ffbcaa"
 experience:
   enable: true
   title: Experience
   item:
-  - logo: images/experience/icon-1.png
-    title: Junior UX Designer
-    company: WEBEX
-    duration: Jan 2007 - Feb 2009
-  - logo: images/experience/icon-2.png
-    title: UX & UI Designer
-    company: AUGMEDIX
-    duration: Mar 2009 - Aug 2014
-  - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+  - logo: https://media-exp1.licdn.com/dms/image/C4D0BAQEXZwaWAoaHhg/company-logo_100_100/0?e=1605139200&v=beta&t=12EtVV2WpBbKFT8LV3V-aCAcKIq0DFHRjzUd766IFGE
+    title: IT Technical Specialist
+    company: Vodafone UK
+    duration: 2015 - 2018
+  - logo: https://media-exp1.licdn.com/dms/image/C4D0BAQEXZwaWAoaHhg/company-logo_100_100/0?e=1605139200&v=beta&t=12EtVV2WpBbKFT8LV3V-aCAcKIq0DFHRjzUd766IFGE
+    title: IT Operations Authority
+    company: Vodafone
+    duration: 2018 - 2019
+  - logo: https://media-exp1.licdn.com/dms/image/C4D0BAQFZK5NMuUIjAg/company-logo_100_100/0?e=1605139200&v=beta&t=yQZgxLw_mDrL7DudkzP55Lxi9NkmluO7m--f1an8IAo
+    title: Infrastructure Engineer
+    company: iVendi Ltd.
+    duration: 2019 - Present
 education:
   enable: false
   title: Education
