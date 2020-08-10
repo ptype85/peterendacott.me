@@ -51,14 +51,14 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/peter.endacott/"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
+URL = "https://github.com/ptype85"
 icon = "ti-github"
 [[params.social]]
-URL = "#"
+URL = "https://www.linkedin.com/in/peterendacott/"
 icon = "ti-linkedin"
