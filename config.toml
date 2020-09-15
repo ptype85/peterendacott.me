@@ -1,4 +1,4 @@
-baseURL = "/standby/index.html"
+baseURL = "/"
 [[menu.main]]
  name = "Standby"
  url = "/standby/index.html"
