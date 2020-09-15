@@ -1,1 +1,4 @@
-baseURL = "/static/standby/index.html"
+baseURL = "/standby/index.html"
+[[menu.main]]
+ name = "Standby"
+ url = "/standby/index.html"
