@@ -1,0 +1,57 @@
+endacott
+==================================================================
+https://keybase.io/endacott
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://peterendacott.me
+  * I am endacott (https://keybase.io/endacott) on keybase.
+  * I have a public key ASDvOIEuXK96-Vd2khJoqXkHKSZFwyhvZ7HZ3ycY5_weLAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a579b923745fe3f777df10dcf5b4c853bff8387e5fdfdd251cd100dddfb4998a0a",
+      "host": "keybase.io",
+      "kid": "0120ef38812e5caf7af95776921268a97907292645c3286f67b1d9df2718e7fc1e2c0a",
+      "uid": "917727960897b60f779cf1f711ca5f19",
+      "username": "endacott"
+    },
+    "merkle_root": {
+      "ctime": 1600211854,
+      "hash": "7f3502768a65edb3584f72bec35602eff6ea5db24a54c32a7a711fa040436de8e51aacbad8498b8082a25878e99a720073d0cadd07b2ce98777d8a9669f4e8ae",
+      "hash_meta": "bfffaf5e679185cbe40ca752606425a39ba0c95cfcdfdacaac6f85fff6fb5aef",
+      "seqno": 17579088
+    },
+    "service": {
+      "entropy": "upweFlgjJpE65OcCqcM07Q3D",
+      "hostname": "peterendacott.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1600211874,
+  "expire_in": 504576000,
+  "prev": "0bf9b61407bb34ad7c69c64da7cdaedfefde1b8eea90f1b54598ee3894505f94",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7ziBLlyvevlXdpISaKl5BykmRcMob2ex2d8nGOf8HiwKp3BheWxvYWTESpcCI8QgC/m2FAe7NK18acZNp82u3+/eG47qkPG1RZjuOJRQX5TEIEZjyMCzTiEFLZK9Rl5U/szuBfl/DXVLuwBWm8ijxHLlAgHCo3NpZ8RA9kyjgKq5aYU6ATwvsBmLKr/ajIVdC8mDzL3McVY1qI3hXlpMScrszuZamKEXCknfdvMvKV2uiH6NlDCPSnpxA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIf3yInOwkx+dc28l7OrDAEwgUaY/oViCy2EW4mzqz3Ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/endacott
+
+==================================================================
