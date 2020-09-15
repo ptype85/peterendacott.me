@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/standby/index.html"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
