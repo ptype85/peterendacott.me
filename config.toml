@@ -2,3 +2,10 @@ baseURL = "/"
 [[menu.main]]
  name = "Standby"
  url = "/standby/index.html"
+[params]
+address = "Manchester UK"
+author = "Peter Endacott"
+copyright = "Copyright &copy; 2020 Peter Endacott | Theme by [gethugothemes](https://gethugothemes.com)"
+description = "This is meta description"
+email = "pete.endacott@gmail.com"
+favicon = "/images/favicon.ico"
